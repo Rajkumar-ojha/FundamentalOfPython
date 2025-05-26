@@ -7,4 +7,4 @@ for v in d1.values():
 for its in d1.items():
     print(its)
 for mukul,rupesh in d1.items():
-    print(mukul,"----->",rupesh) 
+    print(mukul,"----->",rupesh)

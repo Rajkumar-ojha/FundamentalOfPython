@@ -1,4 +1,4 @@
-d1={"sno":100,"name":"raj","intmarks":{"cm":17,"c++":70},"extmarks":{"cm":90,"c++":90},"cname":"mukul"}
+d1={"sno":100,"name":"raj","intmarkss":{"cm":17,"c++":70},"extmarks":{"cm":90,"c++":90},"cname":"mukul"}
 print(d1,type(d1))
 for k in d1.keys():
     print(k)

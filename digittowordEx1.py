@@ -9,7 +9,7 @@ elif(n<=19):
 elif(n<=99):
     output=words_for_tens[n//10]+""+words_upto_19[n%10]
 else:
-    output="plz enter a valid  value from 0 to  99 only"
+    output="plz enter a valids  value from 0 to  99 only"
 print(output)
 
 

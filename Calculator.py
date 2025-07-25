@@ -11,7 +11,7 @@ elif op == "-":
     print(round(result,3))
 elif op =="*":
     result = num1 * num2
-    print(round(result,3))
+    print(round(result))
 elif op == "/":
     result = num1 / num2
     print(round(result,3))
